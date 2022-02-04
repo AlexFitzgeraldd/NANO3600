@@ -36,5 +36,6 @@ if __name__ == '__main__':
     xolds = np.array([2-0.02*i for i in range(1,nvar+1)])
     xnews = multi_newton(actfs, actjac, xolds); print(xnews)
 
-This is question 1
+This is edit is for question 1
+
 
